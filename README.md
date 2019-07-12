@@ -1,6 +1,11 @@
 # console-pong
 This is a pong game I made following this YouTube tutorial by NVitanovic: https://www.youtube.com/watch?v=y8QL62SDlcQ
 
+WHAT IS IT
+Your basic pong game with 2 player input using the keys (Player 1) "w + s" and (Player 2) "i + k".
+It is single-threaded and output is in the console, hence the flashing. 
+
+WHAT I LEARNED
 I made this as a refresher to C++ after not coding for some 3 months in the language.
 Most of the concepts I understood, but I was able to learn new things:
   - "friend" : 
